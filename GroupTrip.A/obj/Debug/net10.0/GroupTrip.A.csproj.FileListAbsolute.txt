@@ -1,0 +1,14 @@
+C:\Users\chase\OneDrive\CSCI1250\lab04-group-trip\GroupTrip.A\bin\Debug\net10.0\GroupTrip.A.exe
+C:\Users\chase\OneDrive\CSCI1250\lab04-group-trip\GroupTrip.A\bin\Debug\net10.0\GroupTrip.A.deps.json
+C:\Users\chase\OneDrive\CSCI1250\lab04-group-trip\GroupTrip.A\bin\Debug\net10.0\GroupTrip.A.runtimeconfig.json
+C:\Users\chase\OneDrive\CSCI1250\lab04-group-trip\GroupTrip.A\bin\Debug\net10.0\GroupTrip.A.dll
+C:\Users\chase\OneDrive\CSCI1250\lab04-group-trip\GroupTrip.A\bin\Debug\net10.0\GroupTrip.A.pdb
+C:\Users\chase\OneDrive\CSCI1250\lab04-group-trip\GroupTrip.A\obj\Debug\net10.0\GroupTrip.A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase\OneDrive\CSCI1250\lab04-group-trip\GroupTrip.A\obj\Debug\net10.0\GroupTrip.A.AssemblyInfoInputs.cache
+C:\Users\chase\OneDrive\CSCI1250\lab04-group-trip\GroupTrip.A\obj\Debug\net10.0\GroupTrip.A.AssemblyInfo.cs
+C:\Users\chase\OneDrive\CSCI1250\lab04-group-trip\GroupTrip.A\obj\Debug\net10.0\GroupTrip.A.csproj.CoreCompileInputs.cache
+C:\Users\chase\OneDrive\CSCI1250\lab04-group-trip\GroupTrip.A\obj\Debug\net10.0\GroupTrip.A.dll
+C:\Users\chase\OneDrive\CSCI1250\lab04-group-trip\GroupTrip.A\obj\Debug\net10.0\refint\GroupTrip.A.dll
+C:\Users\chase\OneDrive\CSCI1250\lab04-group-trip\GroupTrip.A\obj\Debug\net10.0\GroupTrip.A.pdb
+C:\Users\chase\OneDrive\CSCI1250\lab04-group-trip\GroupTrip.A\obj\Debug\net10.0\GroupTrip.A.genruntimeconfig.cache
+C:\Users\chase\OneDrive\CSCI1250\lab04-group-trip\GroupTrip.A\obj\Debug\net10.0\ref\GroupTrip.A.dll
